@@ -8,9 +8,9 @@ we have done database connectivity with mysqli object oriented.
 - Database related configuration inside ./src/config/dbConfig.php
 - In order to connectivity with database we have made an globale variable in php to use mysqli object by name $GLOBALS['conn'] and same will be accessed using $GLOBALS['conn'].
 - We have made some global functions for using database query here are some of them rest can be viewed in configuration file.
--import database from assets/dbBackup
--check folder structure
--follow functional approch
+- import database from assets/dbBackup
+- check folder structure
+- follow functional approch
 ## Functions
 
 | Name                                        | Discription                                                                           | Return                        |
